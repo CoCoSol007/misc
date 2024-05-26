@@ -1,0 +1,7 @@
+ -fair un menu pour choisir ton perso:
+	mage 
+	militaire
+	dragon
+ -changer le but du jeu: il doivent tout les deux avoir 50 gold
+ -pouvoir avoir 2 cpasiter une de defance et une de atack
+ 
