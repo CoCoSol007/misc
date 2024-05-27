@@ -1,0 +1,32 @@
+lvl 1 ==> pas de bombe 
+	  pas de fleche 
+	  pas de pomme 
+	  pas de malus clear coins 
+
+nombre de piece requis ==> 25		
+lvl 2 ==> bombe tt les 5 scd
+	  pas de fleche 
+	  pas de pomme
+          pas de malus clear coins 
+
+nombre de piece requis ==> 50
+lvl 3 ==> bombe tt les 4 scd
+	  fleche tt les 6 scd 
+	  pomme tt les 10 scd
+	  pas de malus clear coins 
+
+nombre de piece requis ==> 75
+lvl 4 ==> bombe tt les 3 scd
+	  fleche tt les 5 scd 
+	  pomme tt les 10 scd
+	  clear coins tt les 15 scd 
+
+nombre de piece requis ==> 100
+lvl 5 ==> bombe tt les 2 scd
+	  fleche tt les 6 scd 
+	  pomme tt les 11 scd
+	  clear coins tt les 15 scd
+
+lvl boss ==> boooooss 
+
+
